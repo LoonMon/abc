@@ -1,14 +1,18 @@
 {
-    "id": 1,
-    "name": "ProductName",
-    "images": [
+    "result": "success",
+    "count": 2,
+    "payments": [
         {
-            "id": 11,
-            "imageName": "xCh-rhy"
+            "amount": "100.0",
+            "destination": "rf1BiGeXwwQoi8",
+            "executed_time": "2014-05-29T17:05:20Z",
+            "source": "ra5nK24KXen9AH"
         },
         {
-            "id": 31,
-            "imageName": "fjs-eun"
+            "amount": "1.0",
+            "destination": "ra5nK24KXen9AH",
+            "executed_time": "2014-06-02T22:47:50Z",
+            "source": "rf1BiGeXwwQoi8"
         }
     ]
 }
