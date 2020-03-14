@@ -1,31 +1,7 @@
-[
-    {
-        "mainthree": "444"
-    },
-    {
-        "twoam": "22"
-    },
-    {
-        "twopm": "33"
-    },
-    {
-        "date": "11-11-1111",
-        "numb": "444"
-    },
-    {
-        "date": "11-11-1111",
-        "numb": "444"
-    },
-    {
-        "tdate": "11-11-1111",
-        "tnumb": "22"
-    },
-    {
-        "tdate": "11-11-1111",
-        "tnumb": "33"
-    },
-    {
-        "ldate": "date",
-        "lnumb": "???"
-    }
-]
+{
+    "city": "Mumbai",
+    "streets": [
+        "address1",
+        "address2"
+    ]
+}
